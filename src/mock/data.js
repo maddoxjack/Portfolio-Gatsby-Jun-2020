@@ -19,10 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'fbprofilepic.jpg',
   paragraphOne: `Hello!`,
-  paragraphTwo: `For as long as I can remember I have been messing with computers. Building and selling them, or making websites. `,
-  paragraphThree: `Enter my 20's and journalism took over in pursuit of knowing more about the world around us. I spent some great years working at CNN, Al Jazeera America and Dataminr.`,
+  paragraphTwo: `At 19 I built my first online community and business. It was the beginning of my web development relationship.`,
+  paragraphThree: `Enter my 20's and journalism took over in pursuit of knowing more about the world around us. I spent some great years working at CNN, Al Jazeera America and Dataminr, where I introduced new ways of using social media in newsgathering.`,
   paragraphFour: `In that time I launched an iOS app called Joinup. Pitched at TechCrunch SouthEast and finished runner-up. It was intoxicating. But it ate me knowing that I couldn't write it myself. `,
-  paragraphFive: `So I took the plunge. Made the change. And learned to code.  I stand here now as a builder of things. And the Founder of a certain Socialwise.`,
+  paragraphFive: `So I took the plunge. Made the change. And learned to code.  I can now align vision, creativity and reality. And then I founded Socialwise.`,
   resume: '', // if no resume, the button will not show up
 };
 
@@ -55,6 +55,15 @@ export const projectsData = [
     info2: `Built with JavaScript, HTML, CSS and hosted on AWS.`,
     url: '',
     repo: 'https://github.com/maddoxjack/Astrologic-Fantasy-Sports', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'project-mx5atl.jpg',
+    title: 'MX5Atlanta.com',
+    info: `The largest Maza Miata community in the South East USA. Hosted events, active online discussions, sponsored by multiple local and national businesses, and many lifelong friendships made. Generated over 2 million hits a month at its height. Built at 19 years old.`,
+    info2: `Built with VBulletin, custom CSS and HTML.`,
+    url: 'http://www.mx5atlanta.com/',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
