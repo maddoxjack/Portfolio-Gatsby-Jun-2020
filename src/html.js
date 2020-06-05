@@ -24,7 +24,7 @@ export default function HTML({
         <meta
           name="image"
           property="og:image"
-          content="https://maddoxjack.com/icons/icon-384x384.png"
+          content="https://maddoxjack.com/icons/icon-96x96.png"
         />
         <meta name="author" content="Jack Maddox" />
         {headComponents}
