@@ -19,6 +19,14 @@ export default function HTML({
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="title" property="og:title" content="Jack Maddox" />
+        <meta name="description" property="og:description" content="A Personal Portfolio Page" />
+        <meta
+          name="image"
+          property="og:image"
+          content="https://maddoxjack.com/icons/icon-384x384.png"
+        />
+        <meta name="author" content="Jack Maddox" />
         {headComponents}
       </head>
       <body {...bodyAttributes}>
