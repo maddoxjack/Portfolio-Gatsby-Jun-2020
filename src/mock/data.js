@@ -17,12 +17,12 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'fbprofilepic.jpg',
-  paragraphOne: `Hello!`,
-  paragraphTwo: `At 19 I built my first online community and business. It was the beginning of my web development relationship.`,
-  paragraphThree: `Enter my 20's and journalism took over in pursuit of knowing more about the world around us. I spent some great years working at CNN, Al Jazeera America and Dataminr. Where I introduced new ways of using social media in newsgathering.`,
-  paragraphFour: `In that time I launched an iOS app called Joinup. Pitched at TechCrunch SouthEast and finished runner-up. It was intoxicating. But it ate me knowing that I couldn't write it myself. `,
-  paragraphFive: `So I took the plunge. Made the change. And learned to code.  I can now align vision, creativity and reality. And then I founded Socialwise.`,
+  img: 'headshotsquare.jpg',
+  paragraphOne: `I specialise in full-stack web development. If you have an idea for an app or website and want to see it come to life quickly without being oversold on unnecessary features, let's talk.`,
+  paragraphTwo: `I believe in lightweight, responsive and nicely designed web products. I've built B2B services with 24/7 up-time that are used by financial investment companies in the City, and I've built B2C applications used by thousands.`,
+  paragraphThree: `The first part of my career was spent in the global newsrooms of CNN, Al Jazeera and AI-driven Dataminr. I worked in breaking news, managed teams across global operations to produce the very best content and products. Situations where teamwork and clear communication are essential.`,
+  paragraphFour: `Unlike most developers, I've managed the receiving end of their work. I know how uncomfortable managing a product can be when you can't communicate with or understand your developer.`,
+  paragraphFive: `I am uniquely positioned in that I can both build and translate technology into normal talk.`,
   resume: '', // if no resume, the button will not show up
 };
 
